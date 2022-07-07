@@ -1,6 +1,6 @@
 {
-	"author": "Liz Capik",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Liz Capik",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
